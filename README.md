@@ -1,2 +1,0 @@
-# IEGS
-Basic data
